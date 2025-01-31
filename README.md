@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A49CF,100:181F62&height=110&section=header" width="100%">
 
-<h2 align="center">Mauricio Arroyo</h2>
+<h1 align="center">Mauricio Arroyo</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&font=Jersey+15&size=28&duration=2500&pause=1000&color=006FFF&width=435&lines=Data+Scientist;Climate+Advocate;Bedroom+DJ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&font=Jersey+15&size=28&duration=2500&pause=1000&color=3A49CF&width=435&lines=Data+Scientist;Climate+Advocate;Bedroom+DJ" alt="Typing SVG" />
   </a>
 </div>
 
